@@ -13,7 +13,15 @@
   "author": "cristian Motta <cdmottah@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdmottah/random-messages-escd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cdmottah/random-messages-escd/issues"
+  },
+  "homepage": "https://github.com/cdmottah/random-messages-escd#readme"
 }
